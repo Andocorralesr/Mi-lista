@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1,tvg-logo="https://https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Family_logo.png" HBO Family HD
 http://181.78.105.146:6060/play/a00k
 #EXTINF:-1,HBO HD
 http://181.78.105.146:6060/play/a00h
