@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Win Sports+ HD
 http://181.204.184.123:8000/play/a02v
+#EXTINF:-1,Win Sports+ HD2
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
 #EXTINF:-1,Win Sports HD
 http://181.204.184.123:8000/play/a01l
-#EXTINF:-1,Fox Sports HD
-http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/116
-#EXTINF:-1,Fox Sports 2 HD
-http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/122
 #EXTINF:-1,Directv Sports
 http://twomonkeys.live/michel/1234/1069620
 #EXTINF:-1,Directv Sports 2
