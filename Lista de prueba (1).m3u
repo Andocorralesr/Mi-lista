@@ -3,9 +3,9 @@
 http://179.1.201.133:54986/play/a03m
 #EXTINF:-1,Win Sports+ HD
 http://181.204.79.182:8202/play/a04m
-#EXTINF:-1,Fox Sports.Arg HD
+#EXTINF:-1,Fox Sports HD
 http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/116
-#EXTINF:-1,Fox Sports.Arg 2 HD
+#EXTINF:-1,Fox Sports 2 HD
 http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/122
 #EXTINF:-1,Directv Sports
 http://twomonkeys.live/michel/1234/1069620
@@ -239,6 +239,8 @@ http://200.59.188.3:8000/play/a0e0
 http://200.59.188.3:8000/play/a096
 #EXTINF:-1,Mundo Peq
 http://200.59.188.3:8000/play/a0ed
+#EXTINF:-1,Multipremier
+http://160.20.165.246:8000/play/a00b
 #EXTINF:-1,NTV
 http://200.59.188.3:8000/play/a01s
 #EXTINF:-1,Nat Geo HD
@@ -257,6 +259,8 @@ http://200.59.188.3:8000/play/a0ef
 http://200.59.188.3:8000/play/a09f
 #EXTINF:-1,PLIM PLIM
 http://200.59.188.3:8000/play/a091
+#EXTINF:-1,PlayBoy HD
+http://179.51.136.201:8000/play/a0ro/
 #EXTINF:-1,Paramount HD
 http://200.59.188.3:8000/play/a023
 #EXTINF:-1,Pasiones HD
