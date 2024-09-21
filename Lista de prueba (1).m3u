@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f",Fox Sports 2 HD
+http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
+#EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a",Fox Sports 3 HD
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
+#EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a",Fox Sports HD
+http://168.197.196.98:82/stream/channelid/781949579?profile=pass
 #EXTINF:-1,DEP | WIN SPORTS FHD
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1416
 #EXTINF:-1,DEP | WIN SPORTS HD
