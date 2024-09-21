@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Win Sports+ HD
 http://181.204.184.123:8000/play/a02v
-#EXTINF:-1,Win Sports+ HD2
+#EXTINF:-1,Win Sports+ HD(2)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
 #EXTINF:-1,Win Sports HD
 http://181.204.184.123:8000/play/a01l
 #EXTINF:-1,Directv Sports
-http://twomonkeys.live/michel/1234/1069620
+http://twomonkeys.live/michel/1234/589323
+#EXTINF:-1,Directv Sports(2)
+http://twomonkeys.live/michel/1234/589324
 #EXTINF:-1,Directv Sports 2
 http://45.226.35.128:3010/play/a0p6
 #EXTINF:-1,Directv Sports +
@@ -17,9 +19,9 @@ http://181.204.184.123:8000/play/a01q
 http://181.204.184.123:8000/play/a075
 #EXTINF:-1,ESPN 3 HD
 http://181.204.184.123:8000/play/a073
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1,ESPN 5 HD
 http://181.204.184.123:8000/play/a02c
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1,ESPN 6 HD
 http://181.204.184.123:8000/play/a074
 #EXTINF:-1, tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Family_logo.png" HBO Family HD
 http://181.78.105.146:6060/play/a00k
