@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a",DEP |Fox Sports HD (AR)
-http://168.197.196.98:82/stream/channelid/781949579?profile=pass
-#EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f",DEP |Fox Sports 2 HD (AR)
-http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
-#EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a",DEP |Fox Sports 3 HD (AR)
-http://168.197.196.98:82/stream/channelid/33594286?profile=pass
 #EXTINF:-1,DEP | WIN SPORTS FHD
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1416
 #EXTINF:-1,DEP | WIN SPORTS HD
@@ -61,6 +55,12 @@ http://disfruta.net/richardactiva247/gwqUJUjvgE/1096
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1077
 #EXTINF:-1,DEP | Fox Sports Premium HD (MX)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/14363
+#EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a",DEP | Fox Sports HD (AR)
+http://168.197.196.98:82/stream/channelid/781949579?profile=pass
+#EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f",DEP | Fox Sports 2 HD (AR)
+http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
+#EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a",DEP | Fox Sports 3 HD (AR)
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
 #EXTINF:-1,DEP | GOL T (ES)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1677
 #EXTINF:-1,DEP | GOLPERU HD
