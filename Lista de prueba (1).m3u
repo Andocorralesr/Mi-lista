@@ -1,14 +1,42 @@
 #EXTM3U
-#EXTINF:-1,DEP | WIN SPORTS FHD
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1416
-#EXTINF:-1,DEP | WIN SPORTS HD
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1415
-#EXTINF:-1,DEP | WIN SPORTS FUTBOL HD
-http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
-#EXTINF:-1,DEP | WIN SPORTS FUTBOL HD2
-http://disfruta.net/richardactiva247/gwqUJUjvgE/49790
-#EXTINF:-1,DEP | WIN SPORTS FUTBOL SD
-http://disfruta.net/richardactiva247/gwqUJUjvgE/20018
+#EXTINF:-1,DEP | Adrenalina Sports HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1072
+#EXTINF:-1,DEP | AYM SPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1406
+#EXTINF:-1,DEP | B31N Sp0rts HD (US)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1398
+#EXTINF:-1,DEP | B31N Sp0rts Xtra Ñ HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1388
+#EXTINF:-1,DEP | B31N SP0RTS Ñ HD 2
+http://disfruta.net/richardactiva247/gwqUJUjvgE/7449
+#EXTINF:-1,DEP | BALLY SPORTS SOUTH [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/18714
+#EXTINF:-1,DEP | BALLY SPORTS SOUTHEAST [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/18715
+#EXTINF:-1,DEP | CALIENTE TV HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/49294
+#EXTINF:-1,DEP | Claro Sports FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1407
+#EXTINF:-1,DEP | Claro Sports FHD (HN)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1408
+#EXTINF:-1,DEP | DAZN Formula 1 FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1694
+#EXTINF:-1,DEP | DAZN LALIGA FHD (ES)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1680
+#EXTINF:-1,DEP | DSPORTS 2 HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1205
+#EXTINF:-1,DEP | DSPORTS FHD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1382
+#EXTINF:-1,DEP | DSPORTS FHD (CO)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1059
+#EXTINF:-1,DEP | DSPORTS FHD (PE)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1383
+#EXTINF:-1,DEP | DSPORTS HD (EC)
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1194
+#EXTINF:-1,DEP | DSPORTS PLUS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1195
+#EXTINF:-1,DEP | EL CANAL DEL FUTBOL EC [HD]
+http://disfruta.net/richardactiva247/gwqUJUjvgE/7617
 #EXTINF:-1,DEP | ESPN HD (MX)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1080
 #EXTINF:-1,DEP | ESPN HD (CO)
@@ -55,12 +83,6 @@ http://disfruta.net/richardactiva247/gwqUJUjvgE/1096
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1077
 #EXTINF:-1,DEP | Fox Sports Premium HD (MX)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/14363
-#EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a",DEP | Fox Sports HD (AR)
-http://168.197.196.98:82/stream/channelid/781949579?profile=pass
-#EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f",DEP | Fox Sports 2 HD (AR)
-http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
-#EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a",DEP | Fox Sports 3 HD (AR)
-http://168.197.196.98:82/stream/channelid/33594286?profile=pass
 #EXTINF:-1,DEP | GOL T (ES)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1677
 #EXTINF:-1,DEP | GOLPERU HD
@@ -119,3 +141,13 @@ http://disfruta.net/richardactiva247/gwqUJUjvgE/1175
 http://disfruta.net/richardactiva247/gwqUJUjvgE/2797
 #EXTINF:-1,DEP | VTV HD (UY)
 http://disfruta.net/richardactiva247/gwqUJUjvgE/1217
+#EXTINF:-1,DEP | WIN SPORTS FHD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1416
+#EXTINF:-1,DEP | WIN SPORTS HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1415
+#EXTINF:-1,DEP | WIN SPORTS FUTBOL HD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
+#EXTINF:-1,DEP | WIN SPORTS FUTBOL HD2
+http://disfruta.net/richardactiva247/gwqUJUjvgE/49790
+#EXTINF:-1,DEP | WIN SPORTS FUTBOL SD
+http://disfruta.net/richardactiva247/gwqUJUjvgE/20018
