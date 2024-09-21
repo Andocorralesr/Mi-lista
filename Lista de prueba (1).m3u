@@ -11,6 +11,16 @@ http://twomonkeys.live/michel/1234/1069620
 http://45.226.35.128:3010/play/a0p6
 #EXTINF:-1,Directv Sports +
 http://45.226.35.128:3010/play/a0p3
+#EXTINF:-1,ESPN HD
+http://181.204.184.123:8000/play/a01q
+#EXTINF:-1,ESPN 2 HD
+http://181.204.184.123:8000/play/a075
+#EXTINF:-1,ESPN 3 HD
+http://181.204.184.123:8000/play/a073
+#EXTINF:-1,ESPN 4 HD
+http://181.204.184.123:8000/play/a02c
+#EXTINF:-1,ESPN 6HD
+http://181.204.184.123:8000/play/a074
 #EXTINF:-1, tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Family_logo.png" HBO Family HD
 http://181.78.105.146:6060/play/a00k
 #EXTINF:-1, tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_logo.svg_.png" HBO HD
