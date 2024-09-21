@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,Win Sports HD
+http://179.1.201.133:54986/play/a03m
+#EXTINF:-1,Win Sports+ HD
+http://181.204.79.182:8202/play/a04m
+#EXTINF:-1,Fox Sports.Arg HD
+http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/116
+#EXTINF:-1,Fox Sports.Arg 2 HD
+http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/122
+#EXTINF:-1,Directv Sports
+http://twomonkeys.live/michel/1234/1069620
+#EXTINF:-1,Directv Sports 2
+http://45.226.35.128:3010/play/a0p6
+#EXTINF:-1,Directv Sports +
+http://45.226.35.128:3010/play/a0p3
 #EXTINF:-1, tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Family_logo.png" HBO Family HD
 http://181.78.105.146:6060/play/a00k
 #EXTINF:-1, tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_logo.svg_.png" HBO HD
@@ -11,10 +25,6 @@ http://181.78.105.146:6060/play/a00j
 http://181.78.105.146:6060/play/a00l
 #EXTINF:-1,HBO2 HD
 http://181.78.105.146:6060/play/a00i
-#EXTINF:-1,Fox Sports.Arg HD
-http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/116
-#EXTINF:-1,Fox Sports.Arg 2 HD
-http://51.222.111.105:25461/NtvPlay/WShyYSgqsz/122
 #EXTINF:-1,Adult swim
 http://181.78.8.90:16123/play/ch75
 #EXTINF:-1,123 TV
@@ -369,10 +379,6 @@ http://200.59.188.3:8000/play/a08m
 http://200.59.188.3:8000/play/a070
 #EXTINF:-1,Warner Channel HD
 http://200.59.188.3:8000/play/a00h
-#EXTINF:-1,Win Sports HD
-http://179.1.201.133:54986/play/a03m
-#EXTINF:-1,Win Sports+ HD
-http://181.204.79.182:8202/play/a04m
 #EXTINF:-1,Zona Latina
 http://200.59.188.3:8000/play/a05d
 
