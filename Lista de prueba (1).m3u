@@ -145,6 +145,8 @@ http://191.52.214.5:8000/play/a02z
 http://191.52.214.5:8000/play/a06o
 #EXTINF:-1,HBO Family HD
 http://191.52.214.5:8000/play/a06q
+#EXTINF:-1,HBO POP HD
+http://200.59.188.3:8000/play/a00m
 #EXTINF:-1,HBO XTREME HD
 http://191.52.214.5:8000/play/a03x
 #EXTINF:-1,A&E HD
@@ -162,7 +164,7 @@ http://191.52.214.5:8000/play/a06p
 #EXTINF:-1,Cartoon Network HD
 http://191.52.214.5:8000/play/a031
 #EXTINF:-1,Cinemax HD
-http://191.52.214.5:8000/play/a02a
+http://45.189.148.254:9999/play/a016
 #EXTINF:-1,Comedy Central HD
 http://191.52.214.5:8000/play/a02b
 #EXTINF:-1,DW - 1651
