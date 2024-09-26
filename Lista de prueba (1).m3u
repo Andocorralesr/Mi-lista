@@ -139,6 +139,14 @@ http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
 http://disfruta.net/richardactiva247/gwqUJUjvgE/49790
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Winfutbol.png",DEP | WIN SPORTS FUTBOL SD
 http://disfruta.net/richardactiva247/gwqUJUjvgE/20018
+#EXTINF:-1,HBO HD
+http://191.52.214.5:8000/play/a02z
+#EXTINF:-1,HBO 2 HD
+http://191.52.214.5:8000/play/a06o
+#EXTINF:-1,HBO Family HD
+http://191.52.214.5:8000/play/a06q
+#EXTINF:-1,HBO XTREME HD
+http://191.52.214.5:8000/play/a03x
 #EXTINF:-1,A&E HD
 http://191.52.214.5:8000/play/a01s
 #EXTINF:-1,AMC HD
@@ -167,34 +175,14 @@ http://191.52.214.5:8000/play/a02h
 http://191.52.214.5:8000/play/a02j
 #EXTINF:-1,E! HD
 http://191.52.214.5:8000/play/a03f
-#EXTINF:-1,ESPN 2 HD
-http://191.52.214.5:8000/play/a027
-#EXTINF:-1,ESPN 3 HD
-http://191.52.214.5:8000/play/a025
-#EXTINF:-1,ESPN HD
-http://191.52.214.5:8000/play/a02s
 #EXTINF:-1,EWTN
 http://191.52.214.5:8000/play/a06g
-#EXTINF:-1,FOX Sports 2 HD
-http://191.52.214.5:8000/play/a02o
 #EXTINF:-1,FX HD
 http://191.52.214.5:8000/play/a02r
-#EXTINF:-1,Fox Sports 1 HD
-http://191.52.214.5:8000/play/a03u
-#EXTINF:-1,Fox Sports 3 HD
-http://191.52.214.5:8000/play/a026
 #EXTINF:-1,GOLPERU HD
 http://191.52.214.5:8000/play/a03m
 #EXTINF:-1,Golden HD
 http://191.52.214.5:8000/play/a03b
-#EXTINF:-1,HBO 2 HD
-http://191.52.214.5:8000/play/a06o
-#EXTINF:-1,HBO Family HD
-http://191.52.214.5:8000/play/a06q
-#EXTINF:-1,HBO HD
-http://191.52.214.5:8000/play/a02z
-#EXTINF:-1,HBO XTREME HD
-http://191.52.214.5:8000/play/a03x
 #EXTINF:-1,History Channel HD
 http://191.52.214.5:8000/play/a01r
 #EXTINF:-1,Las Estrellas HD
