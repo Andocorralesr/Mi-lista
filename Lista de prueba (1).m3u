@@ -165,7 +165,7 @@ http://190.211.102.42:4000/play/a07u
 http://190.211.102.42:4000/play/a07v
 #EXTINF:-1,UNIVERSAL REALITY HD
 http://190.211.102.42:4000/play/a07w
-#EXTINF:-1,A&E HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/285585.png" A&E HD 
 http://191.52.214.5:8000/play/a01s
 #EXTINF:-1,AMC HD
 http://191.52.214.5:8000/play/a02x
