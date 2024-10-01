@@ -143,17 +143,21 @@ http://disfruta.net/richardactiva247/gwqUJUjvgE/1418
 http://disfruta.net/richardactiva247/gwqUJUjvgE/49790
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/Winfutbol.png",DEPORTES | WIN SPORTS FUTBOL SD
 http://disfruta.net/richardactiva247/gwqUJUjvgE/20018
-#EXTINF:-1,Películas y Series | HBO HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_logo.svg-1.png",Películas y Series | HBO HD
 http://191.52.214.5:8000/play/a02z
-#EXTINF:-1,Películas y Series | HBO 2 HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO2_logo.png",Películas y Series | HBO 2 HD
 http://191.52.214.5:8000/play/a06o
-#EXTINF:-1,Películas y Series | HBO Family HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Family.svg_.png",Películas y Series | HBO Family HD
 http://191.52.214.5:8000/play/a06q
-#EXTINF:-1,Películas y Series | HBO Plus HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Plus.png.png",Películas y Series | HBO Plus HD
 http://38.180.133.31:8000/play/a0ld
-#EXTINF:-1,Películas y Series | HBO POP HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Pop.png",Películas y Series | HBO POP HD
 http://200.59.188.3:8000/play/a00m
-#EXTINF:-1,Películas y Series | HBO XTREME HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/images__1_-removebg-preview.png",Películas y Series | HBO Mundi HD
+http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/39810
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Signature.png",Películas y Series | HBO Signature FHD
+http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/6510
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/HBO_Xtreme.png",Películas y Series | HBO XTREME HD
 http://191.52.214.5:8000/play/a03x
 #EXTINF:-1,Películas y Series | UNIVERSAL HD
 http://190.14.228.107:8000/play/a031
@@ -223,10 +227,6 @@ http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/2626
 http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/56693
 #EXTINF:-1,Películas y Series | Golden Premier
 http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/49061
-#EXTINF:-1,Películas y Series | HBO Mundi HD
-http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/39810
-#EXTINF:-1,Películas y Series | HBO Signature FHD
-http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/6510
 #EXTINF:-1,Películas y Series | Sony HD
 http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/30414
 #EXTINF:-1,Películas y Series | Studio Universal HD
@@ -275,12 +275,10 @@ http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/2466
 http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/2465
 #EXTINF:-1,Infantiles | Cartoon Network HD
 http://191.52.214.5:8000/play/a031
-#EXTINF:-1,Cinemax 
+#EXTINF:-1,Películas y Series | Cinemax 
 http://77p.fun:2082/stkrestreambrasil5372kdg/hs734fdk36/2623
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1,Películas y Series | Comedy Central HD
 http://191.52.214.5:8000/play/a02b
-#EXTINF:-1,DW - 1651
-http://191.52.214.5:8000/play/a06f
 #EXTINF:-1,Entretenimiento | Discovery H&H HD
 http://191.52.214.5:8000/play/a02i
 #EXTINF:-1,Entretenimiento | Discovery Kids HD
